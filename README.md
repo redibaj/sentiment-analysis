@@ -114,7 +114,7 @@ This feature enables live experimentation and rapid sentiment assessment.
 
 10. Installation and Setup
 10.1 Clone the Repository
-git clone https://github.com/your-username/sentiment-analysis-nlp.git
+git clone https://github.com/redibaj/sentiment-analysis-nlp.git
 cd sentiment-analysis-nlp
 
 10.2 Install Dependencies
