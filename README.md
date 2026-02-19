@@ -4,6 +4,9 @@ Sentiment Analysis on Product and Business Reviews
 
 Using VADER, RoBERTa, and BERT Models
 
+<img width="1080" height="583" alt="sentiment analysis image" src="https://github.com/user-attachments/assets/23c7a660-d3e8-48bc-81a3-d8c132efa0c5" />
+
+
 1. Project Overview
 
 This project presents an end-to-end Natural Language Processing (NLP) pipeline for sentiment analysis and rating prediction using both traditional lexicon-based methods and modern Transformer-based deep learning models.
@@ -94,6 +97,9 @@ Summary and text fields are combined into a single review field
 9. Yelp review scraping and sentiment inference
 10. Real-time sentiment and rating prediction
 
+<img width="514" height="401" alt="Screenshot 2026-01-06 at 11 35 00 PM" src="https://github.com/user-attachments/assets/fb090235-d7f8-46b8-afce-2e5e86293da3" />
+
+
 7. Evaluation Metrics
 7.1 Star Rating Prediction Accuracy
 - Exact rating prediction accuracy: approximately 70 percent
@@ -106,11 +112,16 @@ These results demonstrate strong alignment between textual sentiment and numeric
 - Transformer-based models show a strong correlation with actual user ratings
 - Text alone can provide reliable insight into customer satisfaction
 
+<img width="548" height="199" alt="Screenshot 2026-01-06 at 11 30 30 PM" src="https://github.com/user-attachments/assets/ae5e858d-9cd9-4007-ab95-b5abad80ff52" />
+
+
 9. Real-Time Sentiment Analysis
 The project includes an interactive command-line interface allowing users to enter custom reviews and receive:
 -Predicted star rating (1–5)
 - Sentiment probabilities (positive, neutral, negative)
 This feature enables live experimentation and rapid sentiment assessment.
+
+<img width="767" height="199" alt="Screenshot 2026-01-06 at 11 37 04 PM" src="https://github.com/user-attachments/assets/4542bfc9-06f0-48bf-b352-b8f6f08e9414" />
 
 10. Installation and Setup
 10.1 Clone the Repository
